@@ -6,6 +6,7 @@
 
 This is my personal project of a BOT to play the crypto trading card game [Splinterlands](https://splinterlands.com?ref=neogenesis49). It requires [NodeJs](https://nodejs.org/it/download/) installed to run.
 </div>
+
 ## Tech used
 
 - [NodeJs](https://nodejs.org/it/download/)
