@@ -1,6 +1,6 @@
 import dontenv from 'dotenv';
 dontenv.config();
-import { run, setupAccount } from './index.js';
+import { run, setupAccount } from './slpage/index.js';
 import chalk from 'chalk';
 
 async function startSingle() {
