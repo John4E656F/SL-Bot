@@ -1,1 +1,18 @@
-# SL-Bot
+# [Splinterlands Bot](https://splinterlands.com?ref=neogenesis49)
+
+![Splinterlands](https://d36mxiodymuqjm.cloudfront.net/website/home/splinterlands_logo_fx_1000.png)
+
+This is my personal project of a BOT to play the crypto trading card game [Splinterlands](https://splinterlands.com?ref=neogenesis49). It requires [NodeJs](https://nodejs.org/it/download/) installed to run.
+
+## Tech used
+
+- [NodeJs](https://nodejs.org/it/download/)
+- [Puppeteer](https://pptr.dev/)
+- [Chalk](https://www.npmjs.com/package/chalk)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Node-Fetch](https://github.com/node-fetch/node-fetch)
+- [Moment](https://momentjs.com/)
+
+## How to start?
+
+🚧UNDER CONSTRUCTION🚧
