@@ -1,3 +1,5 @@
+<div align="center">
+
 # [Splinterlands Bot](https://splinterlands.com?ref=neogenesis49)
 
 <a href="https://splinterlands.com?ref=neogenesis49"><img src="https://d36mxiodymuqjm.cloudfront.net/website/home/splinterlands_logo_fx_1000.png" width="200px;" alt="Splinterlands Crypto trading Card game Bot"/></a>
@@ -16,3 +18,4 @@ This is my personal project of a BOT to play the crypto trading card game [Splin
 ## How to start?
 
 🚧UNDER CONSTRUCTION🚧
+</div>
