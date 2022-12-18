@@ -1,0 +1,18 @@
+{
+  "name": "splinterlands-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.4.1"
+  },
+  "type": "module"
+}
